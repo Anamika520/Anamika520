@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testng.pckg2.NewTestPckg3"/>
+      <class name="testng.pckg2.NewTestPckg2"/>
+      <class name="testng.pckg1.NewTest"/>
+      <class name="testng.pckg1.NewTest2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
